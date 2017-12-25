@@ -1,0 +1,4 @@
+<aura:component >
+	<c:applicationEventComp1 />
+    <c:HandlerComponent/>
+</aura:component>

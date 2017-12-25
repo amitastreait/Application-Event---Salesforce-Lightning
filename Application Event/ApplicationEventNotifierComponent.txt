@@ -1,0 +1,6 @@
+<aura:component >
+	<!-- <aura:registerEvent name="appEvent"  type="c:applicationEvent" /> -->
+    <br/>
+        <lightning:button variant="brand" label="Application Event" iconName="utility:download" 
+                          iconPosition="left" onclick="{! c.handleClick }" />
+</aura:component>
